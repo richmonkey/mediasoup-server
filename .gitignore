@@ -1,5 +1,8 @@
 node_modules
 server/dist
 server/public
+server/src/config.js
 .vscode
 *~
+.DS_Store
+yarn-error.log
